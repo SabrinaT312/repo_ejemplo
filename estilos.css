@@ -1,5 +1,11 @@
+
 *{
     padding: 0px;
     margin: 0px;
     box-sizing: content-box;
+}
+
+body{
+    background-color: coral;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
